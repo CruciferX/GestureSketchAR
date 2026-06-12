@@ -18,6 +18,7 @@ A real-time hand gesture drawing app using computer vision. Point your finger to
 > Point finger → draws on canvas  
 > Open palm → erases  
 > No finger up → nothing happens (idle mode)
+> https://youtu.be/8cYLL-Xpjrs - Watch Result Here.
 
 ---
 
